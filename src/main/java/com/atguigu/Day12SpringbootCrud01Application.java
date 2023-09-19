@@ -13,5 +13,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class Day12SpringbootCrud01Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Day12SpringbootCrud01Application.class, args);
+		System.out.println("hello feature-blue...");
 	}
 }
